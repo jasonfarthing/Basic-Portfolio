@@ -184,9 +184,9 @@ input {
 
 @media screen and (max-width: 980px) {
   
-    body {
+    /* body {
       color: rgb(236, 157, 172);
-    }
+    } */
     #bio-text
     {
         padding-left: 25px;
@@ -211,9 +211,9 @@ input {
 
 @media screen and (max-width: 768px) {
        
-    body {
+    /* body {
         color: rgb(201, 92, 211);
-    }
+    } */
     #about{
         width: auto;
         margin-top: 50px;
@@ -230,12 +230,12 @@ input {
         width: 50%;
         height: auto;
     }
-    /* .column {
+    .column {
         
         width: auto;
        
        
-    } */
+    }
 
     .contact-form {
         width: auto;
@@ -244,9 +244,9 @@ input {
 
 @media screen and (max-width: 640px) {
            
-    body {
+    /* body {
         color: rgb(143, 8, 132);
-    }
+    } */
     .column {
         
         width: auto;
