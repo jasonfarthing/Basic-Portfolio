@@ -200,6 +200,13 @@ input {
         height: auto;
      
     }
+    .column {
+        
+        width: 90%;
+       
+        
+    }
+
 }
 
 @media screen and (max-width: 768px) {
@@ -223,6 +230,16 @@ input {
         width: 50%;
         height: auto;
     }
+    /* .column {
+        
+        width: auto;
+       
+       
+    } */
+
+    .contact-form {
+        width: auto;
+    }
 }
 
 @media screen and (max-width: 640px) {
@@ -230,7 +247,12 @@ input {
     body {
         color: rgb(143, 8, 132);
     }
-   
+    .column {
+        
+        width: auto;
+       
+        
+    }
     
     #bio-image
     {
@@ -247,7 +269,15 @@ input {
         margin: auto;
        
     }
+    .contact-form {
+        width: auto;
+    }
+    #about{
+        width: auto;
+        margin-top: 50px;
+        /* margin-left: 20px;
+        margin-right: 20px; */
+        margin-bottom: auto;
+    }
     
 }
-        
-    
