@@ -1,2 +1,2 @@
-# Basic-Portfolio
-week 1 due friday oct 20
+# jasonfarthing.github.io
+My Profile
